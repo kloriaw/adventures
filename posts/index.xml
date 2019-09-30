@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kloria&#39;s Blog</title>
+    <link>https://blog-1e829.firebaseapp.com/posts/</link>
+    <description>Recent content in Posts on Kloria&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 00:17:28 -0600</lastBuildDate>
+    
+	<atom:link href="https://blog-1e829.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Larch Valley and Eiffel Peak</title>
+      <link>https://blog-1e829.firebaseapp.com/posts/larch-valley/</link>
+      <pubDate>Sat, 15 Sep 2018 00:17:28 -0600</pubDate>
+      
+      <guid>https://blog-1e829.firebaseapp.com/posts/larch-valley/</guid>
+      <description>Date: 2018-09-15
+Location: Banff
+Distance: 14 km
+Elevation gain: 600 m
+Time: 7 h
+People: Chris, Eric, Nick, Ken</description>
+    </item>
+    
+    <item>
+      <title>Markdown Sample</title>
+      <link>https://blog-1e829.firebaseapp.com/posts/markdown-sample/</link>
+      <pubDate>Tue, 28 Aug 2018 20:29:03 -0700</pubDate>
+      
+      <guid>https://blog-1e829.firebaseapp.com/posts/markdown-sample/</guid>
+      <description>Markdown test document Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).
+There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+ There should be no margin above this first sentence.</description>
+    </item>
+    
+  </channel>
+</rss>
