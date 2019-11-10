@@ -1,40 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kloria&#39;s Blog</title>
-    <link>https://blog-1e829.firebaseapp.com/</link>
-    <description>Recent content on Kloria&#39;s Blog</description>
+    <title>In the mountains,</title>
+    <link>kloriaw.github.io/</link>
+    <description>Recent content on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 15 Sep 2018 00:17:28 -0600</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Oct 2019 23:08:42 -0600</lastBuildDate>
     
-	<atom:link href="https://blog-1e829.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kloriaw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Windtower</title>
+      <link>kloriaw.github.io/posts/windtower/</link>
+      <pubDate>Wed, 02 Oct 2019 23:08:42 -0600</pubDate>
+      
+      <guid>kloriaw.github.io/posts/windtower/</guid>
+      <description>Another &amp;ldquo;easy scramble&amp;rdquo; with high payoff. Nonstop views from the moment you get past treeline. Tried this hike last year and did not make it past West Wind Pass due to weather. Bit of easy scrambling/route finding after the pass. All trails eventually lead to the same place, and lots of people to follow if you get lost. Views of Spray Lake along the way are classic. All in all, my kind of hike!</description>
+    </item>
+    
+    <item>
       <title>Larch Valley and Eiffel Peak</title>
-      <link>https://blog-1e829.firebaseapp.com/posts/larch-valley/</link>
+      <link>kloriaw.github.io/posts/larch-valley/</link>
       <pubDate>Sat, 15 Sep 2018 00:17:28 -0600</pubDate>
       
-      <guid>https://blog-1e829.firebaseapp.com/posts/larch-valley/</guid>
+      <guid>kloriaw.github.io/posts/larch-valley/</guid>
       <description>Date: 2018-09-15
 Location: Banff
 Distance: 14 km
 Elevation gain: 600 m
 Time: 7 h
-People: Chris, Eric, Nick, Ken</description>
-    </item>
-    
-    <item>
-      <title>Markdown Sample</title>
-      <link>https://blog-1e829.firebaseapp.com/posts/markdown-sample/</link>
-      <pubDate>Tue, 28 Aug 2018 20:29:03 -0700</pubDate>
-      
-      <guid>https://blog-1e829.firebaseapp.com/posts/markdown-sample/</guid>
-      <description>Markdown test document Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
- There should be no margin above this first sentence.</description>
+Friends: Chris, Eric, Nick, Ken</description>
     </item>
     
   </channel>

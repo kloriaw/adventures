@@ -3,35 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog-1e829.firebaseapp.com/posts/larch-valley/</loc>
+    <loc>kloriaw.github.io/categories/</loc>
+    <lastmod>2019-10-02T23:08:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kloriaw.github.io/</loc>
+    <lastmod>2019-10-02T23:08:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kloriaw.github.io/posts/</loc>
+    <lastmod>2019-10-02T23:08:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kloriaw.github.io/posts/windtower/</loc>
+    <lastmod>2019-10-02T23:08:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kloriaw.github.io/posts/larch-valley/</loc>
     <lastmod>2018-09-15T00:17:28-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog-1e829.firebaseapp.com/posts/markdown-sample/</loc>
-    <lastmod>2018-08-28T20:29:03-07:00</lastmod>
+    <loc>kloriaw.github.io/about/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog-1e829.firebaseapp.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog-1e829.firebaseapp.com/</loc>
-    <lastmod>2018-09-15T00:17:28-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog-1e829.firebaseapp.com/posts/</loc>
-    <lastmod>2018-09-15T00:17:28-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog-1e829.firebaseapp.com/tags/</loc>
-    <priority>0</priority>
+    <loc>kloriaw.github.io/tags/</loc>
   </url>
   
 </urlset>
