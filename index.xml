@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In the mountains,</title>
-    <link>https://kloriaw.github.io/</link>
+    <link>https://blog.kwen.ca/</link>
     <description>Recent content on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Dec 2019 23:16:07 -0700</lastBuildDate>
     
-	<atom:link href="https://kloriaw.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.kwen.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tacky</title>
-      <link>https://kloriaw.github.io/posts/tacky/</link>
+      <link>https://blog.kwen.ca/posts/tacky/</link>
       <pubDate>Mon, 23 Dec 2019 23:16:07 -0700</pubDate>
       
-      <guid>https://kloriaw.github.io/posts/tacky/</guid>
+      <guid>https://blog.kwen.ca/posts/tacky/</guid>
       <description>Date: 19-12-23
 Location: Panorama Mountain Resort
 Friends: Chris, Kat, Pat, Julian, Greg, Joel, Robyn, Alex</description>
@@ -24,48 +24,59 @@ Friends: Chris, Kat, Pat, Julian, Greg, Joel, Robyn, Alex</description>
     
     <item>
       <title>Mount St. Piran</title>
-      <link>https://kloriaw.github.io/posts/mount-st-piran/</link>
+      <link>https://blog.kwen.ca/posts/mount-st-piran/</link>
       <pubDate>Sat, 05 Oct 2019 18:08:51 -0700</pubDate>
       
-      <guid>https://kloriaw.github.io/posts/mount-st-piran/</guid>
+      <guid>https://blog.kwen.ca/posts/mount-st-piran/</guid>
       <description>This was my attempt to squeeze in one last hike before the hiking season &amp;ldquo;officially&amp;rdquo; ended. There had been a lot of snowfall in parts of Kananaskis but barely any in Lake Louise. Asking around resulted in various conflicting reports of avalanche and winter conditions. We decided to head out to the Lake Louise area and check the conditions out for ourselves. There was probably a foot of snow at higher elevations, but everything was otherwise very hikeable.</description>
     </item>
     
     <item>
       <title>Nova Scotia</title>
-      <link>https://kloriaw.github.io/posts/nova-scotia/</link>
+      <link>https://blog.kwen.ca/posts/nova-scotia/</link>
       <pubDate>Sat, 10 Aug 2019 00:02:23 -0700</pubDate>
       
-      <guid>https://kloriaw.github.io/posts/nova-scotia/</guid>
+      <guid>https://blog.kwen.ca/posts/nova-scotia/</guid>
       <description>Summer 2019 - I visited the east coast of Canada for the first time. Got some aggressive wetsuit tan lines. Also tried sailing, kayaking, canoeing, boogie boarding, and windsurfing for the first time. Collected lots of periwinkle shells. Watched the tides rise and fall every day. Ate a whole lobster.
 Dates: 19-08-10 to 19-09-02</description>
     </item>
     
     <item>
       <title>Skyline Trail</title>
-      <link>https://kloriaw.github.io/posts/skyline-trail/</link>
+      <link>https://blog.kwen.ca/posts/skyline-trail/</link>
       <pubDate>Sat, 03 Aug 2019 23:08:42 -0600</pubDate>
       
-      <guid>https://kloriaw.github.io/posts/skyline-trail/</guid>
+      <guid>https://blog.kwen.ca/posts/skyline-trail/</guid>
       <description>Skyline was probably the hike that first led me to backpacking. I discovered it two years ago in 2016&amp;frasl;17 and since then, was obsessed with the thought of hiking it. Now that I&amp;rsquo;ve actually done it, it feels strange! The weather was good, the views were great, the company was awesome, I packed my gear really well (light), the only thing that wassn&amp;rsquo;t good were my knees.
 Date: 19-08-03 to 19-08-05</description>
     </item>
     
     <item>
       <title>Windtower</title>
-      <link>https://kloriaw.github.io/posts/windtower/</link>
-      <pubDate>Mon, 22 Jul 2019 23:08:42 -0600</pubDate>
+      <link>https://blog.kwen.ca/posts/windtower/</link>
+      <pubDate>Sun, 21 Jul 2019 23:08:42 -0600</pubDate>
       
-      <guid>https://kloriaw.github.io/posts/windtower/</guid>
+      <guid>https://blog.kwen.ca/posts/windtower/</guid>
       <description>Another &amp;ldquo;easy scramble&amp;rdquo; with high payoff. Nonstop views from the moment you get past treeline. Tried this hike last year and did not make it past West Wind Pass due to weather. Bit of easy scrambling/route finding after the pass. All trails eventually lead to the same place, and lots of people to follow if you get lost. Views of Spray Lake along the way are classic. All in all, my kind of hike!</description>
     </item>
     
     <item>
+      <title>Midnight Peak</title>
+      <link>https://blog.kwen.ca/posts/midnight-peak/</link>
+      <pubDate>Sat, 22 Jun 2019 21:52:08 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/midnight-peak/</guid>
+      <description>Date: 19-06-22
+Location: Kananaskis
+Friends: Kat, Devin</description>
+    </item>
+    
+    <item>
       <title>Larch Valley and Eiffel Peak</title>
-      <link>https://kloriaw.github.io/posts/larch-valley/</link>
+      <link>https://blog.kwen.ca/posts/larch-valley/</link>
       <pubDate>Sat, 15 Sep 2018 00:17:28 -0600</pubDate>
       
-      <guid>https://kloriaw.github.io/posts/larch-valley/</guid>
+      <guid>https://blog.kwen.ca/posts/larch-valley/</guid>
       <description>Date: 2018-09-15
 Location: Banff
 Distance: 14 km

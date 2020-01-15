@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on In the mountains,</title>
-    <link>https://kloriaw.github.io/categories/</link>
+    <link>https://blog.kwen.ca/categories/</link>
     <description>Recent content in Categories on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Dec 2019 23:16:07 -0700</lastBuildDate>
     
-	<atom:link href="https://kloriaw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.kwen.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>canada</title>
-      <link>https://kloriaw.github.io/categories/canada/</link>
+      <link>https://blog.kwen.ca/categories/canada/</link>
       <pubDate>Mon, 23 Dec 2019 23:16:07 -0700</pubDate>
       
-      <guid>https://kloriaw.github.io/categories/canada/</guid>
+      <guid>https://blog.kwen.ca/categories/canada/</guid>
       <description></description>
     </item>
     
