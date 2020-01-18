@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.kwen.ca/tags/canada/</loc>
+    <lastmod>2019-12-23T23:16:07-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.kwen.ca/categories/canada/</loc>
     <lastmod>2019-12-23T23:16:07-07:00</lastmod>
   </url>
@@ -43,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://blog.kwen.ca/tags/canada/</loc>
-    <lastmod>2019-10-05T18:08:51-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.kwen.ca/tags/hike/</loc>
     <lastmod>2019-10-05T18:08:51-07:00</lastmod>
   </url>
@@ -73,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://blog.kwen.ca/tags/backpacking/</loc>
+    <lastmod>2019-08-03T23:08:42-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.kwen.ca/posts/skyline-trail/</loc>
     <lastmod>2019-08-03T23:08:42-06:00</lastmod>
   </url>
@@ -83,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://blog.kwen.ca/posts/egypt-lake/</loc>
+    <lastmod>2019-07-01T22:49:18-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.kwen.ca/posts/midnight-peak/</loc>
     <lastmod>2019-06-22T21:52:08-07:00</lastmod>
   </url>
@@ -90,6 +100,21 @@
   <url>
     <loc>https://blog.kwen.ca/posts/larch-valley/</loc>
     <lastmod>2018-09-15T00:17:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/moose-mountain/</loc>
+    <lastmod>2017-08-26T18:02:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/ha-ling-peak-and-miners-peak/</loc>
+    <lastmod>2017-08-19T18:08:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/ptarmigan-cirque/</loc>
+    <lastmod>2017-07-25T18:08:51-07:00</lastmod>
   </url>
   
   <url>

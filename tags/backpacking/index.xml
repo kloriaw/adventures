@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>backpacking on In the mountains,</title>
+    <link>https://blog.kwen.ca/tags/backpacking/</link>
+    <description>Recent content in backpacking on In the mountains,</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Aug 2019 23:08:42 -0600</lastBuildDate>
+    
+	<atom:link href="https://blog.kwen.ca/tags/backpacking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skyline Trail</title>
+      <link>https://blog.kwen.ca/posts/skyline-trail/</link>
+      <pubDate>Sat, 03 Aug 2019 23:08:42 -0600</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/skyline-trail/</guid>
+      <description>Skyline was probably the hike that first led me to backpacking. I discovered it two years ago in 2016&amp;frasl;17 and since then, was obsessed with the thought of hiking it. Now that I&amp;rsquo;ve actually done it, it feels strange! The weather was good, the views were great, the company was awesome, I packed my gear really well (light), the only thing that wassn&amp;rsquo;t good were my knees.
+Date: 19-08-03 to 19-08-05</description>
+    </item>
+    
+    <item>
+      <title>Egypt Lake</title>
+      <link>https://blog.kwen.ca/posts/egypt-lake/</link>
+      <pubDate>Mon, 01 Jul 2019 22:49:18 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/egypt-lake/</guid>
+      <description>Date: 19-06-29 to 19-07-01
+Location: Banff
+Friends: Chris, Kat, Nick, Ivan, Eric, Tess, Evan</description>
+    </item>
+    
+  </channel>
+</rss>
