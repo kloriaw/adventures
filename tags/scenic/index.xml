@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scenic on In the mountains,</title>
+    <link>https://blog.kwen.ca/tags/scenic/</link>
+    <description>Recent content in scenic on In the mountains,</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jul 2017 18:08:51 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog.kwen.ca/tags/scenic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A smoky sunset</title>
+      <link>https://blog.kwen.ca/posts/a-smoky-sunset/</link>
+      <pubDate>Mon, 24 Jul 2017 18:08:51 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/a-smoky-sunset/</guid>
+      <description>Photos from last week…the air quality was bad but the colours were great.
+Date: 2017-07-24
+Location: Calgary - Bowmont Park</description>
+    </item>
+    
+    <item>
+      <title>Evening stroll at Dewitt’s Pond</title>
+      <link>https://blog.kwen.ca/posts/evening-stroll-at-dewitts-pond/</link>
+      <pubDate>Mon, 17 Jul 2017 18:08:51 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/evening-stroll-at-dewitts-pond/</guid>
+      <description>Could smell the smoke from the BC forest fires, even outside my house. It made for some interesting skies. Practiced my photography skills.
+Date: 2017-07-17
+Location: Dewitt&amp;rsquo;s Pond, near Airdrie</description>
+    </item>
+    
+  </channel>
+</rss>
