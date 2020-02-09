@@ -6,7 +6,7 @@
     <description>Recent content in Tags on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Dec 2019 23:16:07 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 23:46:04 -0700</lastBuildDate>
     
 	<atom:link href="https://blog.kwen.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Canada</title>
       <link>https://blog.kwen.ca/tags/canada/</link>
-      <pubDate>Mon, 23 Dec 2019 23:16:07 -0700</pubDate>
+      <pubDate>Sat, 01 Feb 2020 23:46:04 -0700</pubDate>
       
       <guid>https://blog.kwen.ca/tags/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiking</title>
+      <link>https://blog.kwen.ca/tags/hiking/</link>
+      <pubDate>Sat, 01 Feb 2020 23:46:04 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/tags/hiking/</guid>
       <description></description>
     </item>
     
@@ -35,15 +44,6 @@
       <pubDate>Mon, 23 Dec 2019 23:16:07 -0700</pubDate>
       
       <guid>https://blog.kwen.ca/tags/skiing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hiking</title>
-      <link>https://blog.kwen.ca/tags/hiking/</link>
-      <pubDate>Sat, 05 Oct 2019 18:08:51 -0700</pubDate>
-      
-      <guid>https://blog.kwen.ca/tags/hiking/</guid>
       <description></description>
     </item>
     
@@ -75,20 +75,20 @@
     </item>
     
     <item>
+      <title>snowshoeing</title>
+      <link>https://blog.kwen.ca/tags/snowshoeing/</link>
+      <pubDate>Sat, 13 Jan 2018 14:40:18 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/tags/snowshoeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>scenic</title>
       <link>https://blog.kwen.ca/tags/scenic/</link>
       <pubDate>Mon, 13 Nov 2017 16:48:42 -0700</pubDate>
       
       <guid>https://blog.kwen.ca/tags/scenic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hking</title>
-      <link>https://blog.kwen.ca/tags/hking/</link>
-      <pubDate>Sun, 10 Sep 2017 14:49:08 -0700</pubDate>
-      
-      <guid>https://blog.kwen.ca/tags/hking/</guid>
       <description></description>
     </item>
     
