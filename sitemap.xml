@@ -108,6 +108,16 @@
   </url>
   
   <url>
+    <loc>https://blog.kwen.ca/posts/picklejar-lakes/</loc>
+    <lastmod>2018-09-08T10:16:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/mount-allan/</loc>
+    <lastmod>2018-09-01T10:16:44-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.kwen.ca/posts/sparrowhawk-tarns/</loc>
     <lastmod>2018-08-25T10:16:31-07:00</lastmod>
   </url>
@@ -240,6 +250,11 @@
   <url>
     <loc>https://blog.kwen.ca/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/healy-pass/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
