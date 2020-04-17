@@ -46,7 +46,7 @@ Friends: Chris, Kat, Pat, Julian, Greg, Joel, Robyn, Alex</description>
       <pubDate>Sat, 10 Aug 2019 00:02:23 -0700</pubDate>
       
       <guid>https://blog.kwen.ca/posts/nova-scotia/</guid>
-      <description>Summer 2019 - I visited the east coast of Canada for the first time. Got some aggressive wetsuit tan lines. Also tried sailing, kayaking, canoeing, boogie boarding, and windsurfing for the first time. Collected lots of periwinkle shells. Watched the tides rise and fall every day. Ate a whole lobster.
+      <description>Summer 2019 - I visited the east coast of Canada for the first time. Developed some major wetsuit tan lines. Also tried sailing, kayaking, canoeing, boogie boarding, and windsurfing for the first time. Collected lots of periwinkle shells. Watched the tides rise and fall every day. Ate a whole lobster.
 Dates: 2019-08-10 to 2019-09-02</description>
     </item>
     
@@ -70,12 +70,25 @@ Date: 2019-08-03 to 2019-08-05</description>
     </item>
     
     <item>
+      <title>Mount Hoffmann</title>
+      <link>https://blog.kwen.ca/posts/mount-hoffmann/</link>
+      <pubDate>Sat, 13 Jul 2019 23:03:13 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/mount-hoffmann/</guid>
+      <description>Someone brought some steaks and cooked them in a cast iron skillet at the &amp;ldquo;summit&amp;rdquo;. It was that kind of hike.
+Date: 2019-07-13
+Location: Kananaskis
+Friends: All the friends</description>
+    </item>
+    
+    <item>
       <title>Egypt Lake</title>
       <link>https://blog.kwen.ca/posts/egypt-lake/</link>
       <pubDate>Sat, 29 Jun 2019 22:49:18 -0700</pubDate>
       
       <guid>https://blog.kwen.ca/posts/egypt-lake/</guid>
-      <description>Date: 2019-06-29 to 2019-07-01
+      <description>Redemption for the attempt last year! Lots of friends, lots of fun.
+Date: 2019-06-29 to 2019-07-01
 Location: Banff
 Friends: Chris, Kat, Nick, Ivan, Eric, Tess, Evan</description>
     </item>
@@ -89,6 +102,15 @@ Friends: Chris, Kat, Nick, Ivan, Eric, Tess, Evan</description>
       <description>Date: 2019-06-22
 Location: Kananaskis
 Friends: Kat, Devin</description>
+    </item>
+    
+    <item>
+      <title>Healy Pass</title>
+      <link>https://blog.kwen.ca/posts/healy-pass/</link>
+      <pubDate>Sat, 22 Sep 2018 18:08:51 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/healy-pass/</guid>
+      <description>That day, a valiant attempt was made to backpack to Egypt Lake. It was also probably the most miserable, soggy, muddy, and nasty walk I&amp;rsquo;ve ever had. An entire day of trudging up small rivers in the chilly gloom. By the time we made it to the pass, the sunlight and gorgeous sights cheered us up, but we decided to head back since everyone&amp;rsquo;s shoes were wet at that point.</description>
     </item>
     
     <item>
@@ -398,17 +420,6 @@ Friends: Mom and Dad</description>
       <description>Date: 2017-06-11
 Location: Kananaskis
 Friends: Chris, Mario, Julia</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.kwen.ca/posts/healy-pass/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.kwen.ca/posts/healy-pass/</guid>
-      <description>title = &amp;ldquo;Healy Pass&amp;rdquo; date = 2018-09-22T18:08:51-07:00 tags = [&amp;ldquo;hiking&amp;rdquo;,&amp;ldquo;Canada&amp;rdquo;,&amp;ldquo;backpacking&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage= &amp;ldquo;/photos/002_XXXX.jpg&amp;rdquo; draft = true
-+++
-This was a valiant attempt at backpacking to Egypt Lake. It was also the most miserable soggy, muddy, gross walk I&amp;rsquo;ve ever had. An entire day of walking up streams. By the time we made it to the pass, the gorgeous sights cheered us up but we decided to head back since everyone&amp;rsquo;s shoes were wet at that point, and it was cold.</description>
     </item>
     
   </channel>
