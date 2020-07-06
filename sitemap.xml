@@ -4,36 +4,41 @@
   
   <url>
     <loc>https://blog.kwen.ca/tags/canada/</loc>
-    <lastmod>2020-06-14T22:10:56-06:00</lastmod>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/categories/</loc>
-    <lastmod>2020-06-14T22:10:56-06:00</lastmod>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/tags/hiking/</loc>
-    <lastmod>2020-06-14T22:10:56-06:00</lastmod>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/</loc>
-    <lastmod>2020-06-14T22:10:56-06:00</lastmod>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.kwen.ca/posts/kings-creek-ridge/</loc>
-    <lastmod>2020-06-14T22:10:56-06:00</lastmod>
+    <loc>https://blog.kwen.ca/posts/little-lougheed/</loc>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/posts/</loc>
-    <lastmod>2020-06-14T22:10:56-06:00</lastmod>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/tags/</loc>
+    <lastmod>2020-06-20T18:08:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/kings-creek-ridge/</loc>
     <lastmod>2020-06-14T22:10:56-06:00</lastmod>
   </url>
   
@@ -285,6 +290,16 @@
   <url>
     <loc>https://blog.kwen.ca/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/cox-hill-via-jumpingpound/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/pigeon-mountain/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
