@@ -6,10 +6,19 @@
     <description>Recent content in Posts on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2020 18:08:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 18:08:51 -0700</lastBuildDate>
     
 	<atom:link href="https://blog.kwen.ca/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cox Hill via North Jumpingpound Ridge</title>
+      <link>https://blog.kwen.ca/posts/cox-hill-via-jumpingpound/</link>
+      <pubDate>Wed, 01 Jul 2020 18:08:51 -0700</pubDate>
+      
+      <guid>https://blog.kwen.ca/posts/cox-hill-via-jumpingpound/</guid>
+      <description>The hike We hiked this one-way from the north end of Jumpingpound Ridge to Cox Hill and down to the Dawson equestrian area. The rest of the family biked a big loop from the parking lot. The hike was a gentle hike up and down but I heard it was pretty strenuous to mountain bike. The wildflowers were still out in full bloom and my favourite part of the hike was the open meadow between Jumpingpound Ridge and Cox Hill.</description>
+    </item>
     
     <item>
       <title>Little Lougheed</title>
@@ -488,34 +497,6 @@ Friends: Mom and Dad</description>
       <description>Date: 2017-06-11
 Location: Kananaskis
 Friends: Chris, Mario, Julia</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.kwen.ca/posts/cox-hill-via-jumpingpound/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.kwen.ca/posts/cox-hill-via-jumpingpound/</guid>
-      <description>title = &amp;ldquo;Cox Hill via North Jumpingpound&amp;rdquo; date = 2021-10-05T18:08:51-07:00 tags = [&amp;ldquo;XX&amp;rdquo;, &amp;ldquo;XX&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage= &amp;ldquo;/photos/002_3736.jpg&amp;rdquo; draft = true
-+++
-INTRO
-Date: 20XX-XX-XX
-Location: XX
-Friends: XX</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.kwen.ca/posts/pigeon-mountain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.kwen.ca/posts/pigeon-mountain/</guid>
-      <description>title = &amp;ldquo;Pigeon Mountain&amp;rdquo; date = 2021-10-05T18:08:51-07:00 tags = [&amp;ldquo;XX&amp;rdquo;, &amp;ldquo;XX&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage= &amp;ldquo;/photos/002_3736.jpg&amp;rdquo; draft = true
-+++
-INTRO
-Date: 20XX-XX-XX
-Location: XX
-Friends: XX</description>
     </item>
     
   </channel>
