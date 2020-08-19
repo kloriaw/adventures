@@ -3,37 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.kwen.ca/tags/canada/</loc>
-    <lastmod>2020-07-26T23:46:14-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.kwen.ca/categories/</loc>
-    <lastmod>2020-07-26T23:46:14-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.kwen.ca/tags/hiking/</loc>
-    <lastmod>2020-07-26T23:46:14-06:00</lastmod>
+    <loc>https://blog.kwen.ca/gallery/</loc>
+    <lastmod>2020-08-17T23:10:33-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/</loc>
-    <lastmod>2020-07-26T23:46:14-06:00</lastmod>
+    <lastmod>2020-08-17T23:10:33-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.kwen.ca/posts/nihahi-ridge/</loc>
-    <lastmod>2020-07-26T23:46:14-06:00</lastmod>
+    <loc>https://blog.kwen.ca/gallery/showcase/</loc>
+    <lastmod>2020-08-17T23:10:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/tags/backpacking/</loc>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/tags/canada/</loc>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/categories/</loc>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/tags/hiking/</loc>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/posts/</loc>
-    <lastmod>2020-07-26T23:46:14-06:00</lastmod>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/rockwall/</loc>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.kwen.ca/tags/</loc>
+    <lastmod>2020-08-01T23:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kwen.ca/posts/nihahi-ridge/</loc>
     <lastmod>2020-07-26T23:46:14-06:00</lastmod>
   </url>
   
@@ -115,11 +135,6 @@
   <url>
     <loc>https://blog.kwen.ca/tags/travel/</loc>
     <lastmod>2019-08-10T00:02:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.kwen.ca/tags/backpacking/</loc>
-    <lastmod>2019-08-03T23:08:42-06:00</lastmod>
   </url>
   
   <url>

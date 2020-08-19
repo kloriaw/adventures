@@ -6,15 +6,24 @@
     <description>Recent content in Tags on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2020 23:46:14 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 23:23:59 -0600</lastBuildDate>
     
 	<atom:link href="https://blog.kwen.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>backpacking</title>
+      <link>https://blog.kwen.ca/tags/backpacking/</link>
+      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
+      
+      <guid>https://blog.kwen.ca/tags/backpacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Canada</title>
       <link>https://blog.kwen.ca/tags/canada/</link>
-      <pubDate>Sun, 26 Jul 2020 23:46:14 -0600</pubDate>
+      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
       
       <guid>https://blog.kwen.ca/tags/canada/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>hiking</title>
       <link>https://blog.kwen.ca/tags/hiking/</link>
-      <pubDate>Sun, 26 Jul 2020 23:46:14 -0600</pubDate>
+      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
       
       <guid>https://blog.kwen.ca/tags/hiking/</guid>
       <description></description>
@@ -66,15 +75,6 @@
     </item>
     
     <item>
-      <title>backpacking</title>
-      <link>https://blog.kwen.ca/tags/backpacking/</link>
-      <pubDate>Sat, 03 Aug 2019 23:08:42 -0600</pubDate>
-      
-      <guid>https://blog.kwen.ca/tags/backpacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>snowshoeing</title>
       <link>https://blog.kwen.ca/tags/snowshoeing/</link>
       <pubDate>Sun, 27 Jan 2019 18:08:51 -0700</pubDate>
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>camping</title>
+      <title>Camping</title>
       <link>https://blog.kwen.ca/tags/camping/</link>
       <pubDate>Fri, 20 Jul 2018 01:53:42 -0700</pubDate>
       
