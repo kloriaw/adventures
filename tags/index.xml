@@ -6,24 +6,15 @@
     <description>Recent content in Tags on In the mountains,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2020 23:23:59 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 23:25:06 -0600</lastBuildDate>
     
 	<atom:link href="https://blog.kwen.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>backpacking</title>
-      <link>https://blog.kwen.ca/tags/backpacking/</link>
-      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
-      
-      <guid>https://blog.kwen.ca/tags/backpacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Canada</title>
       <link>https://blog.kwen.ca/tags/canada/</link>
-      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
+      <pubDate>Sat, 08 Aug 2020 23:25:06 -0600</pubDate>
       
       <guid>https://blog.kwen.ca/tags/canada/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>hiking</title>
       <link>https://blog.kwen.ca/tags/hiking/</link>
-      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
+      <pubDate>Sat, 08 Aug 2020 23:25:06 -0600</pubDate>
       
       <guid>https://blog.kwen.ca/tags/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backpacking</title>
+      <link>https://blog.kwen.ca/tags/backpacking/</link>
+      <pubDate>Sat, 01 Aug 2020 23:23:59 -0600</pubDate>
+      
+      <guid>https://blog.kwen.ca/tags/backpacking/</guid>
       <description></description>
     </item>
     
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>Camping</title>
+      <title>camping</title>
       <link>https://blog.kwen.ca/tags/camping/</link>
       <pubDate>Fri, 20 Jul 2018 01:53:42 -0700</pubDate>
       
