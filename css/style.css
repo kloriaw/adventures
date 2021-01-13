@@ -1,6 +1,7 @@
 /* Reset */
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, FeatureImage, skinnyimg {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, FeatureImage, skinnyimg
+{
     border: 0;
     font-size: 100%;
     font: inherit;
@@ -52,6 +53,7 @@ table {
 
 /* Icons */
 
+/*
 @font-face {
     font-family: 'icons';
     src: url('../fonts/icons.eot');
@@ -59,6 +61,34 @@ table {
     font-weight: normal;
     font-style: normal;
 }
+*/
+
+/*Kloria's custom fonts CSS */
+
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('../fonts/poppins-regular-webfont.woff2') format('woff2'),
+         url('../fonts/poppins-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'poppinslight';
+    src: url('../fonts/poppins-light-webfont.woff2') format('woff2'),
+         url('../fonts/poppins-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'poppinsextralight';
+    src: url('../fonts/poppins-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/poppins-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
     font-family: "icons";
@@ -116,12 +146,13 @@ html, body {
 }
 
 body {
-    font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #666;
+    font: 16px/1 "poppinslight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333; /*originally #666 */
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
 
+/* Not sure what the next two headers change */
 h1 {
     font-size: 30px;
     letter-spacing: -1px;
@@ -154,19 +185,22 @@ h2 {
     margin-bottom: 20px;
 }
 
+/*Website title*/
 .profile h1 {
     font-weight: 400;
     letter-spacing: 0px;
-    font-size: 20px;
+    font-size: 40px; /*Orig 20px*/
     color: #222;
+    font-family: "poppinsextralight", 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/*Website bio/descrip/sub-header*/
 .profile h2 {
     font-size: 20px;
     font-weight: 300;
     color: #aaa;
-    margin-top: 10px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-top: 0px; /*Orig 10px*/
+    font-family: "poppinslight", 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-style: normal;
 }
 
@@ -179,6 +213,7 @@ nav.main-nav {
     z-index: 100;
 }
 
+/*main menu*/
 nav.main-nav a {
     top: 8px;
     right: 6px;
@@ -187,6 +222,7 @@ nav.main-nav a {
     font-size: 13px;
     line-height: 1.35;
     border-radius: 3px;
+    font-family: "poppinslight", 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 nav.main-nav a.cta {
@@ -292,7 +328,7 @@ ul>li {
 }
 
 b, strong {
-    font-weight: 500;
+    font-weight: 600;
     color: #1E2025;
 }
 
@@ -300,6 +336,7 @@ em, i {
     font-style: italic;
 }
 
+/*not sure what these do*/
 #title {
     display: inline-block;
     line-height: 100%;
@@ -311,7 +348,7 @@ em, i {
 
 .description {
     float: right;
-    font: italic 14px/1.4em Georgia, serif;
+    font: italic 14px/1.4em "poppinslight", Georgia, serif;
     color: #aaa;
 }
 
@@ -323,30 +360,33 @@ em, i {
 }
 
 .home h2 {
-    font: italic 19px/1.3em Georgia, serif;
+    font: italic 19px/1.3em "poppinsregular", Georgia, serif;
     color: #bbb;
 }
 
+/*align post header...left looks quite good, originally center*/
 .post header {
-    text-align: center;
+    text-align: left;
 }
 
+/*Headers in posts*/
 .post h1 {
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 0px; /*orig 20px*/
     color: #222;
-    font: 300 32px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 32px/1.4em "poppinsextralight", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 24px/1.5 "poppinsextralight", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #111;
 }
 
+/*line below post header*/
 .post h2.headline {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em "poppinsregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: -5px 0 0 0;
     color: #b2b9be;
     font-size: 13px;
@@ -355,18 +395,19 @@ em, i {
 }
 
 .post h2.headline .tags {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em "poppinsregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: -5px 0 40px 0;
     color: #b2b9be;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin-top: 5px;
+    margin-top: 3px;
     display: block;
 }
 
+/*post text preview on homepage*/
 #post-list h2 {
-    font: normal 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 16px/1.5em "poppinslight", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #aaa;
     margin-top: 2px;
 }
@@ -378,16 +419,19 @@ h3, h4, h5 {
 h3 {
     font-size: 20px;
     font-weight: 400;
+    font-family: "poppinslight", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h4 {
     font-size: 16px;
     font-weight: bold;
+    font-family: "poppinslight", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h5 {
     font-size: 15px;
     font-weight: bold;
+    font-family: "poppinslight", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h6 {
@@ -397,6 +441,7 @@ h6 {
     margin-bottom: 6px;
 }
 
+/* Copyright info on bottom */
 p.small {
     color: #bbb;
     font-size: 14px;
@@ -460,13 +505,6 @@ thead th, th {
     white-space: nowrap;
 }
 
-img {
-    width: 150%;
-    max-width: 200%;
-/* Rounded image borders */
-    border-radius: 0px;
-}
-
 /* Made with Cactus Badge */
 
 #badge {
@@ -497,17 +535,18 @@ Post List
     padding-top: 20px;
 }
 
+/*post title on homepage*/
 #post-list a {
     color: #333;
     display: block;
-    font: bold 19px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 19px/1.7 "poppinslight", "Helvetica Neue", helvetica, Arial, sans-serif;
 }
 
 #post-list .dates {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.8 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 17px/1.8 "poppinsregular", "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -586,7 +625,6 @@ Post List
     float: right;
     margin: -2px;
 }
-
 #sharing a {
     font-size: 20px;
     font-size: 23px;
@@ -651,7 +689,7 @@ Post List
 }
 
 
-/* Archive */
+/* Archive - for some reason, nothing in this section does anything */
 
 h1.archive {
     margin-bottom: 0px;
@@ -659,7 +697,7 @@ h1.archive {
 
 h2.month {
     width: 100%;
-    font: bold 13px/1 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 13px/1 "poppinsregular", "Helvetica Neue", helvetica, Arial, sans-serif;
     text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 10px;
@@ -673,7 +711,7 @@ h2.month {
 
 #archive-list a {
     display: block;
-    font: bold 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 17px/1.7 "poppinsregular", "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #333;
 }
 
@@ -681,7 +719,7 @@ h2.month {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 17px/1.7 "poppinsregular", "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -706,12 +744,12 @@ h2.month {
     margin-bottom: 0px;
 }
 #post-list.archive.readmore h3 {
-    font: 400 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 400 20px "poppinsregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a {
-    font: 400 16px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 400 16px/1.6 "poppinsregular", "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #5694f1;
 }
 
@@ -720,7 +758,7 @@ h2.month {
 }
 
 #post-list.archive.readmore .dates {
-    font: 300 16px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 16px/1.6 "poppinsregular", "Helvetica Neue", helvetica, Arial, sans-serif;
 }
 
 #disqus_thread, #ds-thread {
@@ -856,22 +894,22 @@ a.symbol:hover {
 
 
 /**
- * Table of content
+ * Table of contents
  */
 #toc {
   line-height: 1em;
   font-size: .7em;
   word-wrap: break-word;
-  padding: 8px;
-  padding-left: 16px;
-  padding-bottom: 14px;
+  padding: 0px;
+  padding-left: 0px;
+  padding-bottom: 10px;
   margin: 0 0 25px 0;
   display: block;
   color: #808080;
   background: #fff;
   border: none;
   box-shadow: inset 0 0 0 1px #E4EBF2;
-  border-radius: 4px;
+  border-radius: 5px; /*rounded border*/
   overflow: hidden;
   font-family: 'Menlo', 'Monaco', Courier, monospace;
 }
@@ -933,13 +971,18 @@ a.symbol:hover {
     color: #5694f1;
 }
 
-
+/* Change overall photo size throughout blog */
+img {
+    width: 150%;
+    max-width: 500%;
+    border-radius: 0px; /*rounded edges*/
+}
 
 /* start code block where I have no idea what I am doing but it centres the image */
 img {
     display: block;
     position: relative;
-/* If image is twice as large (200%), set "-50%" here */
+/* If image 1.5x as large, set -25%, if image twice as large (200%), set "-50%" here */
     left: -25%;
 }
 .parent {
