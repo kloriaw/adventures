@@ -6,10 +6,23 @@
     <description>Recent content on Peaks and Plains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2020 18:08:51 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 23:19:01 -0700</lastBuildDate>
     
 	<atom:link href="https://adventures.kwen.ca/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ha Ling Peak III</title>
+      <link>https://adventures.kwen.ca/posts/ha-ling-peak-iii/</link>
+      <pubDate>Sun, 22 Nov 2020 23:19:01 -0700</pubDate>
+      
+      <guid>https://adventures.kwen.ca/posts/ha-ling-peak-iii/</guid>
+      <description>Sunrise hikes are a hard sell but they are a bit easier during the winter when you can wake up a bit later. Jonathan, Chris, and I were blessed with a stunning sunrise today, which made the 4 am wake up worth it.
+Date: 2020-11-22
+Location: Kananaskis
+Friends: Chris, Jonathan
+We started hiking in the dark at 6 am and made it to the summit just before sunrise. I overestimated my ability to bound up the last grind at the end and found myself huffing and puffing my way up there, as usual!</description>
+    </item>
     
     <item>
       <title>Helen Lake</title>
@@ -633,6 +646,17 @@ Friends: Chris, Mario, Julia</description>
       <guid>https://adventures.kwen.ca/archetypes/default/</guid>
       <description>title = &amp;ldquo;{{ replace .TranslationBaseName &amp;ldquo;-&amp;rdquo; &amp;ldquo; &amp;rdquo; | title }}&amp;rdquo; date = {{ .Date }} tags = [&amp;ldquo;&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage= &amp;ldquo;/photos/003_3926.jpg&amp;rdquo; draft = false
 +++</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adventures.kwen.ca/posts/scenes-from-the-car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adventures.kwen.ca/posts/scenes-from-the-car/</guid>
+      <description>title = &amp;ldquo;GPS tag markers if I ever recover them&amp;rdquo; date = 2021-10-05T18:08:51-07:00 tags = [&amp;ldquo;XX&amp;rdquo;, &amp;ldquo;XX&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage = &amp;ldquo;/photos/003_3736.jpg&amp;rdquo; draft = true
++++
+Just photos from the car.</description>
     </item>
     
   </channel>
