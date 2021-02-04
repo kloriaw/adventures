@@ -194,6 +194,16 @@ h2 {
     font-family: "poppinsextralight", 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/*bit below makes it so site header isn't blue by default*/
+.siteTitle a {
+    color: #222;
+}
+
+/*Title changes to blue when hovered over*/
+.siteTitle a:hover {
+    color: #5694f1;
+}
+
 /*Website bio/descrip/sub-header*/
 .profile h2 {
     font-size: 20px;
@@ -282,8 +292,8 @@ nav.main-nav a.cta {
 
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
-    color: #5badf0;
-    color: #5694f1;
+    color: #5badf0; /*lighter blue*/
+    color: #5694f1; /*darker blue*/
 }
 
 p a {
@@ -364,7 +374,7 @@ em, i {
     color: #bbb;
 }
 
-/*align post header...left looks quite good, originally center*/
+/*align headers in post...left looks quite good, originally center*/
 .post header {
     text-align: left;
 }

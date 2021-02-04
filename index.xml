@@ -25,6 +25,16 @@ We started hiking in the dark at 6 am and made it to the summit just before sunr
     </item>
     
     <item>
+      <title>Pocaterra Ridge</title>
+      <link>https://adventures.kwen.ca/posts/pocaterra-ridge/</link>
+      <pubDate>Mon, 12 Oct 2020 22:11:36 -0700</pubDate>
+      
+      <guid>https://adventures.kwen.ca/posts/pocaterra-ridge/</guid>
+      <description>Kat and I attempted the ever-popular Pocaterra Ridge hike for the first time on Thanksgiving weekend. We didn&amp;rsquo;t arrive particularly early but we still somehow ended up being the first ones there. With the fresh snow that had fallen, we had to break trail for most of the hike.
+It was definitely challenging to navigate terrain for a hike we&amp;rsquo;d never done before, but we eventually made our way to the summit.</description>
+    </item>
+    
+    <item>
       <title>Helen Lake</title>
       <link>https://adventures.kwen.ca/posts/helen-lake/</link>
       <pubDate>Sat, 26 Sep 2020 18:08:51 -0700</pubDate>
@@ -178,7 +188,7 @@ The lower third of the hiking trail goes through pleasant green forest.</descrip
       <pubDate>Sun, 14 Jun 2020 22:10:56 -0600</pubDate>
       
       <guid>https://adventures.kwen.ca/posts/king-creek-ridge/</guid>
-      <description>King Creek Ridge has an excellent effort-to-reward ratio, as can be seen from the photos. How lucky are Calgarians to see these views in the morning and still be home in time for lunch? The hike is very similar to Prairie Mountain in terms of length and elevation gain, but the views are out of the world for the amount of time you spend climbing. We ascended and descended via two different of well-worn trails.</description>
+      <description>King Creek Ridge has an excellent effort-to-reward ratio, as can be seen from the photos. How lucky are Calgarians to see these views in the morning and still be home in time for lunch? The hike is very similar to Prairie Mountain in terms of length and elevation gain, but the views are out of the world for the amount of time you spend climbing. We ascended and descended via two different well-worn trails.</description>
     </item>
     
     <item>
@@ -314,7 +324,7 @@ Friends: Fatiha</description>
       <pubDate>Sat, 03 Nov 2018 18:08:51 -0700</pubDate>
       
       <guid>https://adventures.kwen.ca/posts/sulphur-mountain/</guid>
-      <description>Icy going up, gondola ride going down.
+      <description>It was icy going up. We took the gondola on he way down.
 Date: 2018-11-03
 Location: Banff
 Friends: Ab, Chris</description>
@@ -646,17 +656,6 @@ Friends: Chris, Mario, Julia</description>
       <guid>https://adventures.kwen.ca/archetypes/default/</guid>
       <description>title = &amp;ldquo;{{ replace .TranslationBaseName &amp;ldquo;-&amp;rdquo; &amp;ldquo; &amp;rdquo; | title }}&amp;rdquo; date = {{ .Date }} tags = [&amp;ldquo;&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage= &amp;ldquo;/photos/003_3926.jpg&amp;rdquo; draft = false
 +++</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://adventures.kwen.ca/posts/scenes-from-the-car/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://adventures.kwen.ca/posts/scenes-from-the-car/</guid>
-      <description>title = &amp;ldquo;GPS tag markers if I ever recover them&amp;rdquo; date = 2021-10-05T18:08:51-07:00 tags = [&amp;ldquo;XX&amp;rdquo;, &amp;ldquo;XX&amp;rdquo;] categories = [&amp;ldquo;&amp;rdquo;] featuredimage = &amp;ldquo;/photos/003_3736.jpg&amp;rdquo; draft = true
-+++
-Just photos from the car.</description>
     </item>
     
   </channel>
