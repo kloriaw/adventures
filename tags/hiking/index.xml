@@ -6,10 +6,22 @@
     <description>Recent content in hiking on Peaks and Plains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Jun 2021 18:08:51 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 18:08:51 -0700</lastBuildDate>
     
 	<atom:link href="https://adventures.kwen.ca/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Porcupine Ridge</title>
+      <link>https://adventures.kwen.ca/posts/porcupine-ridge/</link>
+      <pubDate>Sat, 03 Jul 2021 18:08:51 -0700</pubDate>
+      
+      <guid>https://adventures.kwen.ca/posts/porcupine-ridge/</guid>
+      <description>A fun and straightforward hike with some nice views.
+Date: 2021-07-03
+Location: Kananaskis
+Friends: Bunch of awesome friends</description>
+    </item>
     
     <item>
       <title>Mount Lipsett</title>
